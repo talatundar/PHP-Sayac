@@ -6,7 +6,7 @@
 	<link rel="Stylesheet" type="text/css" href="style/main.css" />
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 
-	<title>SLAP BET</title>
+	<title>SAYAÇ</title>
 </head>
 
 <body>
